@@ -72,6 +72,16 @@
           <artifactId>mysql-connector-java</artifactId>
           <version>5.1.39</version>
       </dependency>
+      <!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
+      <dependency>
+          <groupId>javax.servlet</groupId>
+          <artifactId>javax.servlet-api</artifactId>
+          <version>4.0.0-b07</version>
+          <scope>provided</scope>
+      </dependency>
+
+
+
 
   </dependencies>
   <build>
